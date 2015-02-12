@@ -22,7 +22,7 @@ class Better_Breadcrumbs {
 	protected function build_term_crumb($term) {
 		$url = get_term_link($term);
 
-		return "<li><a href='{$url}' title='{$term->name}'>{$term->name}</a></li>"."\r\n";
+		return "<li><a href='{$url}' title='{$term->name}'>{$term->name}</a></li>";
 	}
 
 	protected function add_posts_to_crumbs() {
