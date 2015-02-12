@@ -1,11 +1,17 @@
 Better Breadcrumbs
 ======================
 Contributors: fireg
-Tags: breadcrumbs, navigation, list, bread, crumbs
+
+Tags: `breadcrumbs`, `navigation`, `list`, `bread`, `crumbs`
+
 Requires at least: 4.0
+
 Tested up to: 4.1
+
 Stable tag: trunk
+
 License: MIT
+
 License URI: http://opensource.org/licenses/MIT
 
 Produces a better breadcrumb list for all your pages, categories, and taxonomies.
